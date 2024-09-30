@@ -1,16 +1,18 @@
-# notes_app_with_bloc_pattern
+Notes App with Flutter (BLoC Pattern) & Python Backend
+This project is a note-taking application built using Flutter with the BLoC pattern for state management. The backend is powered by Python, providing a RESTful API via Dio for communication between the mobile application and server.
 
-A new Flutter project.
+Features:
+Create, Read, Update, Delete (CRUD) operations for notes.
+BLoC Pattern for clean state management in Flutter.
+Dio package for API requests and response handling.
+Python backend handling the logic and database interactions.
+Technologies Used:
+Flutter: Frontend mobile application framework.
+BLoC Pattern: For efficient state management.
+Dio: HTTP client for Dart to interact with the Python backend.
+Python: Backend with RESTful API for data handling.
+Feel free to explore, contribute, or raise issues for improvements!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Proje UI Kİt : https://www.figma.com/design/sm8Zje1Qp0g90A8nrGGQqo/Notes-App-UI-(Community)?node-id=0-1&node-type=canvas&t=vBLtOB1aXzuQLn1E-0
